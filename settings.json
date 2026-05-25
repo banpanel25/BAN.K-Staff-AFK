@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "BANK_SMP.aternos.me",
-    "port": 17802,
+    "ip": "192.0.0.4",
+    "port": 25565,
     "version": "1.21.1"
   },
   "position": {
