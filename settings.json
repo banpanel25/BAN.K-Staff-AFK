@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "BANK_SMP.aternos.me",
-    "port": 17802,
+    "ip": "BANK_SMP.exaroton.me",
+    "port": 13207,
     "version": "1.21.1"
   },
   "position": {
